@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-06-12T08:37:16.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tvU4bMZO8z1BrnmKtLiQ" version="23.1.5" type="device">
+  <diagram name="第 1 页" id="zPJ0UImlxHlZ2T3bxfj3">
+    <mxGraphModel dx="1508" dy="1002" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qmVSdtaaab1Vge6dAxwE-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Word Sense Evaluation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="288" y="398" width="130" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="K63V5ojRegfJ4OGGGZUe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qmVSdtaaab1Vge6dAxwE-2" target="qmVSdtaaab1Vge6dAxwE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmVSdtaaab1Vge6dAxwE-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Feature Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="139" y="401.5" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="qmVSdtaaab1Vge6dAxwE-4" value="&lt;i style=&quot;font-size: 15px;&quot;&gt;Fused &lt;br&gt;Feature&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="223" y="368" width="65" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qmVSdtaaab1Vge6dAxwE-15" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Word&#39;s meaning&lt;br&gt;Feature Extractor&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="480" width="146" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K63V5ojRegfJ4OGGGZUe-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Context Feature&lt;br&gt;Extractor&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="319" width="146" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K63V5ojRegfJ4OGGGZUe-7" value="&lt;i style=&quot;font-size: 15px;&quot;&gt;Context&lt;br&gt;Feature&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="122" y="319" width="65" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="K63V5ojRegfJ4OGGGZUe-8" value="&lt;i style=&quot;font-size: 15px;&quot;&gt;Word&#39;s Meaning&lt;br&gt;Feature&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="122" y="474" width="116" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="K63V5ojRegfJ4OGGGZUe-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="91" y="344" width="52" height="161" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
